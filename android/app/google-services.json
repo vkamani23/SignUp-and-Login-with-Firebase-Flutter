@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494808271131",
+    "firebase_url": "https://surebot-demo-app.firebaseio.com",
+    "project_id": "surebot-demo-app",
+    "storage_bucket": "surebot-demo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494808271131:android:8eda1fbead75057c4debbe",
+        "android_client_info": {
+          "package_name": "com.vaibhav.surebot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494808271131-ko8s5jvthae9p4bmekmsqsht7otf0j9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6MapH60CoRgbyBUO_QhYC-6p78m1Auhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494808271131-ko8s5jvthae9p4bmekmsqsht7otf0j9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
